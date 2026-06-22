@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Essam%20Sleem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=IT+Student;Backend+Developer;ASP.NET+Core+Developer;Node.js+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=IT+Student;Backend+Developer;Always+Learning+New+Things"/>
 
 </div>
 
