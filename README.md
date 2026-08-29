@@ -56,16 +56,6 @@ Goal:
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Essam-Sleem&theme=tokyo-night"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
